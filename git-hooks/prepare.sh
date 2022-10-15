@@ -1,6 +1,6 @@
 #!/bin/bash
 
-fileid="1One1PR5Odvu6cKpQsAMl9nL2fQ-OYWZJ"
+fileid="1Wk23D-0r-rqeTJgRwEy-owwscvH2l3D_"
 filename="app-debug.apk"
 
 if [ -f "$filename" ]; then
